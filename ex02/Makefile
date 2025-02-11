@@ -2,7 +2,7 @@ CC = c++
 CFLAGS = -Wall -Werror -Wextra -std=c++17
 
 NAME = main
-SRC = Serializer.cpp main.cpp
+SRC = Identify.cpp main.cpp
 OBJ_DIR = bin
 OBJ = $(SRC:%.cpp=$(OBJ_DIR)/%.o)
 

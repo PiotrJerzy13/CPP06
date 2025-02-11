@@ -6,7 +6,7 @@
 /*   By: pwojnaro <pwojnaro@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/02/11 17:30:07 by pwojnaro          #+#    #+#             */
-/*   Updated: 2025/02/11 18:03:43 by pwojnaro         ###   ########.fr       */
+/*   Updated: 2025/02/11 18:15:45 by pwojnaro         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -39,5 +39,5 @@ private:
     static void printDouble(std::optional<double> d);
 };
 
-#endif // INTERPRETER_HPP
+#endif
 
